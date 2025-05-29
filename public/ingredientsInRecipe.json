@@ -26,42 +26,137 @@
     },
     {
         "recipe_name": "懶人雞肉炊飯",
-        "ingredientsName": "Chicken",
-        "quantity": 2
+        "ingredientsName": "雞",
+        "quantity": "2 塊"
     },
     {
         "recipe_name": "懶人雞肉炊飯",
         "ingredientsName": "Rice",
-        "quantity": 0.5
+        "quantity": "0.5 杯"
     },
     {
         "recipe_name": "懶人雞肉炊飯",
-        "ingredientsName": "Corn",
-        "quantity": 1
+        "ingredientsName": "粟米",
+        "quantity": "1 條"
     },
     {
         "recipe_name": "懶人雞肉炊飯",
-        "ingredientsName": "mushroom",
-        "quantity": 1
+        "ingredientsName": "菇",
+        "quantity": "1 Pack"
     },
     {
         "recipe_name": "懶人雞肉炊飯",
-        "ingredientsName": "Onion",
-        "quantity": 0.5
+        "ingredientsName": "洋蔥",
+        "quantity": "0.5 個"
     },
     {
         "recipe_name": "懶人雞肉炊飯",
-        "ingredientsName": "Japanese Soy",
-        "quantity": "1 Tea Spoon"
+        "ingredientsName": "日式醬油",
+        "quantity": "1 湯匙"
     },
     {
         "recipe_name": "懶人雞肉炊飯",
         "ingredientsName": "味醂",
-        "quantity": "1 Tea Spoon"
+        "quantity": "1 湯匙"
     },
     {
         "recipe_name": "懶人雞肉炊飯",
         "ingredientsName": "清酒",
-        "quantity": "0.5 Tea Spoon"
+        "quantity": "0.5 湯匙"
+    },
+    {
+        "recipe_name": "爆香泰式雙蛋飯",
+        "ingredientsName": "蒜",
+        "quantity": "10 克"
+    },
+    {
+        "recipe_name": "爆香泰式雙蛋飯",
+        "ingredientsName": "辣椒",
+        "quantity": "10 克"
+    },
+    {
+        "recipe_name": "爆香泰式雙蛋飯",
+        "ingredientsName": "豬絞肉",
+        "quantity": "350 克"
+    },
+    {
+        "recipe_name": "爆香泰式雙蛋飯",
+        "ingredientsName": "九層塔",
+        "quantity": "50 克"
+    },
+    {
+        "recipe_name": "爆香泰式雙蛋飯",
+        "ingredientsName": "醬油",
+        "quantity": "2.5 大匙"
+    },
+    {
+        "recipe_name": "爆香泰式雙蛋飯",
+        "ingredientsName": "蠔油",
+        "quantity": "2.5 大匙"
+    },
+    {
+        "recipe_name": "爆香泰式雙蛋飯",
+        "ingredientsName": "魚露",
+        "quantity": "2 大匙"
+    },
+    {
+        "recipe_name": "爆香泰式雙蛋飯",
+        "ingredientsName": "糖",
+        "quantity": "2 茶匙"
+    },
+    {
+        "recipe_name": "爆香泰式雙蛋飯",
+        "ingredientsName": "水",
+        "quantity": "40 毫升"
+    },
+    {
+        "recipe_name": "爆香泰式雙蛋飯",
+        "ingredientsName": "檸檬",
+        "quantity": "0.5 顆"
+    },
+    {
+        "recipe_name": "爆香泰式雙蛋飯",
+        "ingredientsName": "白飯",
+        "quantity": "400 克"
+    },
+    {
+        "recipe_name": "爆香泰式雙蛋飯",
+        "ingredientsName": "雞蛋",
+        "quantity": "2 顆"
+    },
+    {
+        "recipe_name": "特濃蒜香和牛炒飯",
+        "ingredientsName": "白飯",
+        "quantity": "2-3 碗"
+    },
+    {
+        "recipe_name": "特濃蒜香和牛炒飯",
+        "ingredientsName": "牛",
+        "quantity": "1 塊"
+    },
+    {
+        "recipe_name": "特濃蒜香和牛炒飯",
+        "ingredientsName": "蒜",
+        "quantity": "8 瓣切片"
+    },
+    {
+        "recipe_name": "特濃蒜香和牛炒飯",
+        "ingredientsName": "牛油",
+        "quantity": "1 茶匙"
+    },
+    {
+        "recipe_name": "特濃蒜香和牛炒飯",
+        "ingredientsName": "日式燒肉汁",
+        "quantity": "2-3 湯匙"
+    },
+    {
+        "recipe_name": "特濃蒜香和牛炒飯",
+        "ingredientsName": "三文魚籽",
+        "quantity": "(optional)"
+    },
+    {
+        "recipe_name": "特濃蒜香和牛炒飯",
+        "ingredientsName": "蔥",
+        "quantity": "(optional)"
     }
 ]

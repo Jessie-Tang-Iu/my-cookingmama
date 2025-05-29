@@ -77,6 +77,13 @@ export default function Page() {
     <div style={{ maxWidth: 400, margin: "2rem auto" }}>
       <h2>Filter Recipes by Ingredients</h2>
 
+      <button
+        onClick={() => setSelectedIngredients([])}
+        style={{ marginBottom: "10px", borderWidth: 1, borderRadius: 3, padding: 3 }}
+      >
+        Reset All
+      </button>
+
       <div>
         {ingredients.map((ingredient) => (
           <label key={ingredient} style={{ marginRight: "10px" }}>

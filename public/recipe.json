@@ -2,7 +2,7 @@
     {
         "recipeName": "Curry Chicken",
         "instruction": "1. aidfoja\n2. afeaef\n3. aojfodmscm",
-        "owner": ["Jessie", "Chloe"]
+        "owner": ["Jessie"]
     },
     {
         "recipeName": "Pork",
@@ -12,11 +12,21 @@
     {
         "recipeName": "Beef Rice",
         "instruction": "1. aidfoja\n2. afeaef\n3. aojfodmscm",
-        "owner": ["Chloe"]
+        "owner": ["Jessie"]
     },
     {
         "recipeName": "懶人雞肉炊飯",
-        "instruction": "1. 如常地洗米加水並加進電飯煲\n2. 將所有材料加入電飯煲\n3. 按下開始鍵，等到飯煲完後，加入少量麻油攪勻，\n完成享用",
+        "instruction": "1. 如常地洗米加水並加進電飯煲\n2. 將所有材料加入電飯煲\n3. 按下開始鍵，等到飯煲完後，加入少量麻油攪勻，\n    完成享用",
+        "owner": ["Jessie", "Chloe"]
+    },
+    {
+        "recipeName": "爆香泰式雙蛋飯",
+        "instruction": "1.辣椒蒜頭切末\n2.爆香辣椒蒜末\n3.加入豬絞肉炒出香味\n4.加入醬油 蠔油 糖 魚露拌勻\n5.加入水 變成醬汁\n6.加入九層塔翻炒均勻\n7.擠入檸檬汁\n8.趁熱加入白飯拌勻到米粒上色\n9.蛋白炸至酥脆 加入蛋黃放在中心\n10.放在飯上搭配",
+        "owner": ["Jessie", "Chloe"]
+    },
+    {
+        "recipeName": "特濃蒜香和牛炒飯",
+        "instruction": "1. 牛扒放室溫30分鐘,灑上鹽、黑胡椒碎\n2. 預熱鐵鍋,放入牛扒中火煎約2分鐘,翻面再煎2分鐘\n    (時間視乎厚度)煎封牛扒側面\n3. 錫紙包好靜置5分鐘,切件\n4. 煎牛扒䆁出的油不要倒走，\n    部份油小火煎蒜片至金黃,盛起備用\n5. 同一個鍋放入白飯炒勻；倒入日式燒肉汁和牛油;\n   鋪上和牛扒、蒜片和三文魚籽,\n   灑上黑胡椒碎和蔥花即成",
         "owner": ["Jessie", "Chloe"]
     }
 ]
