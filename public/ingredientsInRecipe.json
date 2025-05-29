@@ -1,0 +1,27 @@
+[
+    {
+        "recipe_name": "Curry Chicken",
+        "ingredientsName": "Chicken",
+        "quantity": 2
+    },
+    {
+        "recipe_name": "Curry Chicken",
+        "ingredientsName": "Curry",
+        "quantity": 1
+    },
+    {
+        "recipe_name": "Pork",
+        "ingredientsName": "Pork",
+        "quantity": 5
+    },
+    {
+        "recipe_name": "Beef Rice",
+        "ingredientsName": "Beef",
+        "quantity": 2
+    },
+    {
+        "recipe_name": "Beef Rice",
+        "ingredientsName": "Rice",
+        "quantity": 1.5
+    }
+]
