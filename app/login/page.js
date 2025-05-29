@@ -68,7 +68,7 @@ export default function Page() {
                     }}
                     disabled={loading}
                     required
-                    style={{ width: "100%", marginBottom: "1rem", borderWidth: 1, borderColor: "white" }}
+                    style={{ width: "100%", marginBottom: "1rem", borderWidth: 2, borderColor: "#1f1f1f" }}
                 />
 
                 <label htmlFor="password">Password: </label>
@@ -81,7 +81,7 @@ export default function Page() {
                     }}
                     disabled={loading}
                     required
-                    style={{ width: "100%", marginBottom: "1rem", borderWidth: 1, borderColor: "white" }}
+                    style={{ width: "100%", marginBottom: "1rem", borderWidth: 2, borderColor: "#1f1f1f" }}
                 />
 
                 {error && <p style={{ color: "red" }}>{error}</p>}

@@ -70,8 +70,8 @@ export default function Page() {
     );
   };
 
-    const tableStyle = {borderWidth: "2px",borderColor: "white",borderStyle: "solid",borderCollapse: "collapse",width: "100%",};
-    const borderStyle= { border: "2px solid white", padding: "8px" };
+    const tableStyle = {borderWidth: "2px",borderColor: "#1f1f1f",borderStyle: "solid",borderCollapse: "collapse",width: "100%",};
+    const borderStyle= { border: "2px solid #1f1f1f", padding: "8px" };
 
   return (
     <div style={{ maxWidth: 400, margin: "2rem auto" }}>
@@ -116,12 +116,6 @@ export default function Page() {
                 ))}
             </tbody>
         </table>
-
-        // <ul>
-        //   {filteredRecipes.map((recipe, idx) => (
-        //     <li key={idx}>{recipe.recipeName}</li>
-        //   ))}
-        // </ul>
       ) : (
         <p>No recipes found.</p>
       )}

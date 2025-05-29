@@ -25,8 +25,8 @@ export default function Page({ name }) {
     if(!recipes || recipes.length === 0)
         return <p>No recipes found for owner: {name}</p>;
 
-    const tableStyle = {borderWidth: "2px",borderColor: "white",borderStyle: "solid",borderCollapse: "collapse",width: "100%",};
-    const borderStyle= { border: "2px solid white", padding: "8px" };
+    const tableStyle = {borderWidth: "2px",borderColor: "#1f1f1f",borderStyle: "solid",borderCollapse: "collapse",width: "100%",};
+    const borderStyle= { border: "2px solid #1f1f1f", padding: "8px" };
 
     return (
         <main>
