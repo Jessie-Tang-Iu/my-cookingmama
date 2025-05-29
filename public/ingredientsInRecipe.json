@@ -23,5 +23,45 @@
         "recipe_name": "Beef Rice",
         "ingredientsName": "Rice",
         "quantity": 1.5
+    },
+    {
+        "recipe_name": "懶人雞肉炊飯",
+        "ingredientsName": "Chicken",
+        "quantity": 2
+    },
+    {
+        "recipe_name": "懶人雞肉炊飯",
+        "ingredientsName": "Rice",
+        "quantity": 0.5
+    },
+    {
+        "recipe_name": "懶人雞肉炊飯",
+        "ingredientsName": "Corn",
+        "quantity": 1
+    },
+    {
+        "recipe_name": "懶人雞肉炊飯",
+        "ingredientsName": "mushroom",
+        "quantity": 1
+    },
+    {
+        "recipe_name": "懶人雞肉炊飯",
+        "ingredientsName": "Onion",
+        "quantity": 0.5
+    },
+    {
+        "recipe_name": "懶人雞肉炊飯",
+        "ingredientsName": "Japanese Soy",
+        "quantity": "1 Tea Spoon"
+    },
+    {
+        "recipe_name": "懶人雞肉炊飯",
+        "ingredientsName": "味醂",
+        "quantity": "1 Tea Spoon"
+    },
+    {
+        "recipe_name": "懶人雞肉炊飯",
+        "ingredientsName": "清酒",
+        "quantity": "0.5 Tea Spoon"
     }
 ]

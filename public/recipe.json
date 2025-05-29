@@ -13,5 +13,10 @@
         "recipeName": "Beef Rice",
         "instruction": "1. aidfoja\n2. afeaef\n3. aojfodmscm",
         "owner": ["Chloe"]
+    },
+    {
+        "recipeName": "懶人雞肉炊飯",
+        "instruction": "1. 如常地洗米加水並加進電飯煲\n2. 將所有材料加入電飯煲\n3. 按下開始鍵，等到飯煲完後，加入少量麻油攪勻，完成享用",
+        "owner": ["Jessie", "Chloe"]
     }
 ]
