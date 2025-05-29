@@ -55,13 +55,20 @@ export default function Page({ name }) {
 
         {selectedIndex !== null && (
             <div style={{ marginTop: "20px", padding: "10px", border: "1px solid gray" }}>
-            <h2>{recipes[selectedIndex].recipeName}</h2>
-            <br />
-            Ingredients:
-            <Ingredients recipe={recipes[selectedIndex].recipeName}/>
-            <br />
-            <pre>Instruction:</pre>
-            <pre>{recipes[selectedIndex].instruction}</pre>
+                <h2>{recipes[selectedIndex].recipeName}</h2>
+                <br />
+                Ingredients:
+                <Ingredients recipe={recipes[selectedIndex].recipeName}/>
+                <br />
+                <pre>Instruction:</pre>
+                <pre>{recipes[selectedIndex].instruction}</pre>
+                {recipes[selectedIndex].url && (
+                    <div style={{ marginTop: "10px"}}>
+                        <a href={recipes[selectedIndex].url} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline", cursor: "pointer"}}>
+                            View Full Recipe
+                        </a>
+                    </div>
+                )}
             </div>
         )}
         </main>

@@ -129,13 +129,20 @@ export default function Page() {
 
         {selectedIndex !== null && (
             <div style={{ marginTop: "20px", padding: "10px", border: "1px solid gray" }}>
-            <h2>{filteredRecipes[selectedIndex].recipeName}</h2>
-            <br />
-            Ingredients:
-            <Ingredients recipe={filteredRecipes[selectedIndex].recipeName}/>
-            <br />
-            <pre>Instruction:</pre>
-            <pre>{filteredRecipes[selectedIndex].instruction}</pre>
+              <h2>{filteredRecipes[selectedIndex].recipeName}</h2>
+              <br />
+              Ingredients:
+              <Ingredients recipe={filteredRecipes[selectedIndex].recipeName}/>
+              <br />
+              <pre>Instruction:</pre>
+              <pre>{filteredRecipes[selectedIndex].instruction}</pre>
+              {recipes[selectedIndex].url && (
+                <div style={{ marginTop: "10px"}}>
+                  <a href={recipes[selectedIndex].url} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline", cursor: "pointer"}}>
+                    View Full Recipe
+                  </a>
+                </div>
+              )}
             </div>
         )}
         {/* <Link href="/" className="text-cyan-600 underline hover:text-cyan-300">Home</Link> */}
