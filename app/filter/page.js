@@ -136,9 +136,9 @@ export default function Page() {
               <br />
               <pre>Instruction:</pre>
               <pre>{filteredRecipes[selectedIndex].instruction}</pre>
-              {recipes[selectedIndex].url && (
+              {filteredRecipes[selectedIndex].url && (
                 <div style={{ marginTop: "10px"}}>
-                  <a href={recipes[selectedIndex].url} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline", cursor: "pointer"}}>
+                  <a href={filteredRecipes[selectedIndex].url} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline", cursor: "pointer"}}>
                     View Full Recipe
                   </a>
                 </div>
