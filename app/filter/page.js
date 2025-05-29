@@ -74,7 +74,7 @@ export default function Page() {
     const borderStyle= { border: "2px solid #1f1f1f", padding: "8px" };
 
   return (
-    <div style={{ maxWidth: 400, margin: "2rem auto" }}>
+    <div style={{ margin: "2rem auto" }}>
       <h2>Filter Recipes by Ingredients</h2>
 
       <button

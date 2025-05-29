@@ -30,7 +30,7 @@ export default function Page() {
     
 
     return (
-        <main style={{ maxWidth: 400, margin: "2rem auto" }}>
+        <main style={{ maxWidth: "80%", margin: "2rem auto" }}>
             <Suspense fallback={<p>Loading user profile...</p>}>
                 <ProfileContent />
             </Suspense>

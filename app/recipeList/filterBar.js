@@ -73,7 +73,7 @@ export default function FilterBar({ recipes = [] }) {
   };
 
   return (
-    <div style={{ maxWidth: 500, margin: "2rem auto" }}>
+    <div style={{ margin: "2rem auto" }}>
       <h2>Filter Recipes by Ingredients</h2>
 
       <div style={{ marginBottom: "1rem" }}>

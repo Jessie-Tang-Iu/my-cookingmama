@@ -55,7 +55,7 @@ export default function Page() {
     }
 
     return (
-        <main style={{ maxWidth: 400, margin: "2rem auto" }}>
+        <main style={{ margin: "2rem auto" }}>
             <h1 className="text-3xl font-bold">Login</h1>
             <form onSubmit={handleSubmit}>
                 <label htmlFor="userName">User Name: </label>
